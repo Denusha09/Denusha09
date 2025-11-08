@@ -5,10 +5,10 @@
 ###    
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/jeya-pragash" target="_blank">
+    <a href="www.linkedin.com/in/denusha-jesunesan" target="_blank">
         <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px" alt="Linkedin"/>
     </a>
-    <a href="https://www.instagram.com/pragash_kv" target="_blank">
+    <a href="#" target="_blank">
         <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50px"  alt="Instagram"/>
     </a>
 </div>
@@ -26,7 +26,7 @@
         Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand">
     </span>
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Kisho+Jeyapragash;+a+passionate+Full+Stack+Developer;+from+the+beautiful+island+of+Sri+Lanka.;+I+love+turning+ideas+into+reality+through+code!" alt="Kisho Jeyapragash greeting message"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Denusha+Jesunesan;+a+passionate+Full+Stack+Developer;+from+the+beautiful+island+of+Sri+Lanka.;+I+love+turning+ideas+into+reality+through+code!" alt="Denusha Jesunesan greeting message"/>
 </h1>
 
 
@@ -163,70 +163,3 @@
 </div>
 
 
-</hr>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C106%20hrs%2041%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-512.7%20thousand%20lines%20of%20code-blue)
-
-*I'm a Night 🦉* 
-
-text
-🌞 Morning                263 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-🌆 Daytime                631 commits         █████████░░░░░░░░░░░░░░░░   34.18 % 
-🌃 Evening                847 commits         ███████████░░░░░░░░░░░░░░   45.88 % 
-🌙 Night                  105 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-
-📅 *I'm Most Productive on Wednesday* 
-
-text
-Monday                   275 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Tuesday                  250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Wednesday                294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Thursday                 283 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Friday                   222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Saturday                 249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Sunday                   273 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-
-
-
-📊 *This Week I Spent My Time On* 
-
-text
-🕑 Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-Python                   7 hrs 56 mins       █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  7 hrs 56 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  7 hrs 56 mins       █████████████████████████   100.00 % 
-
-
-
- Last Updated on 28/01/2025 01:57:26 UTC
-<!--END_SECTION:waka-->
-
-###
-
-</hr>
-
-<div align="center">
-    <table>
-        <tr>
-            <td align="center">
-                <h2>🎧 LISTEN WITH ME 🎧</h2>
-                <a href="https://open.spotify.com/user/zjqfkmbawszam1irs05fwxsls">
-                    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zjqfkmbawszam1irs05fwxsls&count=5&unique=true" alt="Spotify recently played"  />
-                </a>
-            </td>
-        </tr>
-    </table>
-</div>
-
-###
-
-<hr/>
