@@ -1,165 +1,279 @@
 <div align="center">
-    <img height="150" src="./assets/top.gif" alt="top-image"/>
+  <img height="150" src="./assets/top.gif" alt="Denusha Jesunesan profile banner" />
 </div>
 
-###    
+<br />
 
 <div align="center">
-    <a href="www.linkedin.com/in/denusha-jesunesan" target="_blank">
-        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px" alt="Linkedin"/>
-    </a>
-    <a href="#" target="_blank">
-        <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50px"  alt="Instagram"/>
-    </a>
+  <a href="https://www.linkedin.com/in/denusha-jesunesan" target="_blank">
+    <img
+      src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
+      width="50"
+      alt="LinkedIn"
+    />
+  </a>
 </div>
 
-###    
+<br />
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Denusha09&color=blue" alt="profile-views"/>
-</div> 
+  <img
+    src="https://komarev.com/ghpvc/?username=Denusha09&label=Profile%20Views&color=blue&style=flat"
+    alt="Denusha09 profile views"
+  />
+</div>
 
-###    
+<br />
 
 <h1 align="center">
-    <span style="font-family: 'Righteous', sans-serif; font-size: 25px; color: #5c6bc0;">
-        Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand">
-    </span>
-    <br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Denusha+Jesunesan;+a+passionate+Full+Stack+Developer;+from+the+beautiful+island+of+Sri+Lanka.;+I+love+turning+ideas+into+reality+through+code!" alt="Denusha Jesunesan greeting message"/>
+  Hi there!
+  <img
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+    width="28"
+    alt="Waving hand"
+  />
 </h1>
 
-
-###    
-
-<h2 align="center">🐍 MY CONTRIBUTIONS 🐍</h2>
-
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-###
-
-<hr/>
-
-<h2 align="center">🛠 TECH STACK 🛠</h2>
-
-</hr>
-
-### Programming Languages:
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=700&height=70&lines=I'm+Denusha+Jesunesan;Industrial+Information+Technology+Undergraduate;Aspiring+Full-Stack+Developer;AI+and+Machine+Learning+Enthusiast;From+Sri+Lanka"
+    alt="Typing introduction for Denusha Jesunesan"
+  />
 </div>
 
+<br />
 
-### Frontend:
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-</div>
+## 👩‍💻 About Me
 
-### Backend:
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-</div>
+- 🎓 I am an undergraduate following a **B.Sc. (Hons) in Industrial Information Technology** at **Uva Wellassa University of Sri Lanka**.
+- 💻 I am interested in **full-stack web development**, **Artificial Intelligence**, **Machine Learning**, and **cybersecurity**.
+- 🔐 I am currently working on an **AI-based multilingual phishing email detection system** for English, Sinhala, and Tamil.
+- 🌱 I am continuously improving my software-development and problem-solving skills.
+- 🎨 I also enjoy creating user interfaces, system diagrams, and software designs.
+- 📍 I am based in **Sri Lanka**.
 
-### Databases:
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white " alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
-</div>
-
-### Tools:
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify">
-</div>
-
-### DevOps:
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Firebase-%23039BE0.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
-</div>
-
-<hr/>
-
-## ⚡ MY STATS ⚡
+<br />
 
 <hr />
 
+<h2 align="center">🛠️ Tech Stack</h2>
+
+### Programming and Web Technologies
+
 <div align="center">
-    <table>
-        <tr>
-            <td align="center">
-                <h4>Overall Contributions</h4>
-                <img src="https://github-readme-stats.vercel.app/api?username=Denusha09&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats"/>
-            </td>
-            <td align="center">
-                <h4>Top Languages</h4>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denusha09&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-            </td>
-        </tr>
-        <tr>
-            <td align="center">
-                <h4>Contribution Streak</h4>
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=Denusha09&theme=dark&hide_border=false" alt="Contribution Streak"/>
-            </td>
-            <td align="center">
-                <h4>Productive Time</h4>
-                <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Denusha09&theme=radical&utcOffset=8" alt="Productive Time"/>
-            </td>
-        </tr>
-        <tr>
-            <td align="center">
-                <h4>Most Commit Language</h4>
-                <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Denusha09&theme=radical" alt="Most Commit Language"/>
-            </td>
-            <td align="center">
-                <h4>Top Contributed Repo</h4>
-                <img src="https://github-contributor-stats.vercel.app/api?username=Denusha09&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
-            </td>
-        </tr>
-        <tr>
-            <td align="center">
-                <h4>Most Contribution Graph</h4>
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=Denusha09&theme=tokyo-night&hide_border=false" alt="Most Contribution Graph"/>
-            </td>
-               </td>
-             <td align="center">
-                <h4>🏆 GitHub Trophies</h4>
-                <img src="https://github-profile-trophy.vercel.app/?username=Denusha09&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Top Contributed Repo"/>
-            </td>
-        </tr>
-        <tr>
-            <td align="center">
-                <h4>✍ Random Dev Quote</h4>
-                <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-            </td>
-            <td align="center">
-                <h4>GitHub Sponsors</h4>
-                <a href="https://github.com/sponsors/Denusha09">
-                    <img src="https://img.shields.io/badge/Sponsored%20by-GitHub%20Sponsors-blue" alt="GitHub Sponsors"/>
-                </a>
-            </td>
-        </tr>
-    </table>
+  <img
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+    alt="HTML5"
+  />
+  <img
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+    alt="CSS3"
+  />
+  <img
+    src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+    alt="JavaScript"
+  />
+  <img
+    src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
+    alt="PHP"
+  />
 </div>
 
+<br />
 
+### Frontend Development
+
+<div align="center">
+  <img
+    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+    alt="React"
+  />
+  <img
+    src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"
+    alt="Bootstrap"
+  />
+  <img
+    src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"
+    alt="Vite"
+  />
+</div>
+
+<br />
+
+### Database
+
+<div align="center">
+  <img
+    src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
+    alt="MySQL"
+  />
+</div>
+
+<br />
+
+### Development and Design Tools
+
+<div align="center">
+  <img
+    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+    alt="Git"
+  />
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+  <img
+    src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
+    alt="Figma"
+  />
+  <img
+    src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"
+    alt="Apache NetBeans"
+  />
+  <img
+    src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"
+    alt="XAMPP"
+  />
+</div>
+
+<br />
+
+### Areas of Interest
+
+<div align="center">
+  <img
+    src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge"
+    alt="Artificial Intelligence"
+  />
+  <img
+    src="https://img.shields.io/badge/Machine%20Learning-008000?style=for-the-badge"
+    alt="Machine Learning"
+  />
+  <img
+    src="https://img.shields.io/badge/Cybersecurity-CC0000?style=for-the-badge"
+    alt="Cybersecurity"
+  />
+  <img
+    src="https://img.shields.io/badge/UI%2FUX%20Design-FF69B4?style=for-the-badge"
+    alt="UI UX Design"
+  />
+</div>
+
+<br />
+
+<hr />
+
+<h2 align="center">🐍 My Contributions</h2>
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Denusha09/Denusha09/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Denusha09/Denusha09/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Denusha09/Denusha09/output/github-snake.svg"
+      alt="GitHub contribution snake animation"
+    />
+  </picture>
+</div>
+
+<br />
+
+<hr />
+
+<h2 align="center">⚡ GitHub Statistics</h2>
+
+<div align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Denusha09&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Denusha's GitHub statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denusha09&layout=compact&theme=radical&hide_border=true"
+    alt="Denusha's most-used languages"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=Denusha09&theme=radical&hide_border=true"
+    alt="Denusha's GitHub contribution streak"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    width="70%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Denusha09&theme=radical"
+    alt="Denusha's GitHub profile summary"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Denusha09&theme=radical"
+    alt="Denusha's most committed languages"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Denusha09&theme=radical&utcOffset=5.5"
+    alt="Denusha's productive contribution time"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Denusha09&theme=tokyo-night&hide_border=true"
+    alt="Denusha's GitHub contribution activity graph"
+  />
+</div>
+
+<br />
+
+<hr />
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Denusha09&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"
+    alt="Denusha's GitHub trophies"
+  />
+</div>
+
+<br />
+
+<hr />
+
+<h2 align="center">✍️ Developer Quote</h2>
+
+<div align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+    alt="Random developer quote"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <h3>Thanks for visiting my profile! 😊</h3>
+</div>
